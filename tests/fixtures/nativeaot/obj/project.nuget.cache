@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4lHZY+/V+I=",
+  "success": true,
+  "projectFilePath": "E:\\Git\\Reverse_Engineer_Anything_Clone___NodeJS\\tests\\fixtures\\nativeaot\\NativeAotFixture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Riyaz\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.22\\microsoft.dotnet.ilcompiler.8.0.22.nupkg.sha512",
+    "C:\\Users\\Riyaz\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.22\\microsoft.net.illink.tasks.8.0.22.nupkg.sha512",
+    "C:\\Users\\Riyaz\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.22\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.22.nupkg.sha512",
+    "C:\\Users\\Riyaz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
